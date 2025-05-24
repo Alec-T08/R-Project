@@ -125,7 +125,3 @@ You can build these in the UI:
 
 ---
 
-Let me know if you need sample JSON structures, endpoint suggestions, or hooks for Shiny events. Happy to tweak the backend further based on your needs.
-
-Cheers,  
-[Your Name]
